@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T07:00:56.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="iYyaoZy55uuCPYi4dRZE" version="14.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-08T07:01:54.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="0pe10myJNMxAyYwPdd86" version="14.4.3" type="github" pages="2">
   <diagram id="uhPh4rTGfEyftbeCbDB8" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,10 +29,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eiJBfy4ihY83wv4v45AY-31" value="发布&lt;br&gt;订阅" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#97D077;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="591" y="114" width="40" height="40" as="geometry" />
+          <mxGeometry x="591" y="115" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiJBfy4ihY83wv4v45AY-33" value="资源&lt;br&gt;更新" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#97D077;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="396" y="100" width="40" height="40" as="geometry" />
+          <mxGeometry x="396" y="96" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CW17ajOdaByuZuHDJy9e-79" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#82B366;fillColor=#A8DADC;fontColor=#82B366;exitX=0;exitY=0.712;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -47,14 +47,15 @@
           <mxGeometry x="859" y="61" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eiJBfy4ihY83wv4v45AY-44" value="发布&lt;br&gt;订阅" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#97D077;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="776" y="114" width="40" height="40" as="geometry" />
+          <mxGeometry x="778" y="114" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eiJBfy4ihY83wv4v45AY-48" value="Voerka平台" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#97D077;fontSize=22;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="156" y="61" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eiJBfy4ihY83wv4v45AY-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;fontColor=#97D077;strokeColor=#82B366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eiJBfy4ihY83wv4v45AY-49" target="CW17ajOdaByuZuHDJy9e-56" edge="1">
+        <mxCell id="eiJBfy4ihY83wv4v45AY-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;fontColor=#97D077;strokeColor=#82B366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461" y="140" as="targetPoint" />
+            <mxPoint x="466" y="135" as="targetPoint" />
+            <mxPoint x="330" y="135" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <object label="&lt;font color=&quot;#82b366&quot;&gt;资源管理模块&lt;/font&gt;" id="eiJBfy4ihY83wv4v45AY-49">
@@ -280,8 +281,8 @@
         </mxCell>
         <mxCell id="xuxjt_FRlVQSPpr2LeV7-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;fontColor=#97D077;strokeColor=#82B366;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="329.9999999999999" y="150.00000000000006" as="targetPoint" />
-            <mxPoint x="466" y="150.00000000000006" as="sourcePoint" />
+            <mxPoint x="329.9999999999999" y="145.00000000000006" as="targetPoint" />
+            <mxPoint x="466" y="145.00000000000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
