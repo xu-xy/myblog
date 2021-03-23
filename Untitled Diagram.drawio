@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T06:36:52.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Bcx8lU3FNICaU5uKMCpE" version="14.4.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-23T06:39:07.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="RgxyTScvmH5MwweQ-iwB" version="14.4.7" type="github" pages="4">
   <diagram id="uhPh4rTGfEyftbeCbDB8" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -994,17 +994,17 @@
         </mxCell>
         <object label="&lt;font color=&quot;#82b366&quot;&gt;JPush&lt;br&gt;SDK&lt;br&gt;&lt;/font&gt;" id="8Kh1nZLOUitUEpzBzAuP-63">
           <mxCell style="rounded=1;fontSize=18;textDirection=ltr;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="N9daVPsvHSy_dvKD8qvU-1" vertex="1">
-            <mxGeometry x="656" y="770" width="110" height="130" as="geometry" />
+            <mxGeometry x="620" y="770" width="110" height="130" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="8Kh1nZLOUitUEpzBzAuP-66" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.002;exitY=0.195;exitDx=0;exitDy=0;strokeColor=#82B366;fillColor=#A8DADC;fontColor=#82B366;exitPerimeter=0;" parent="N9daVPsvHSy_dvKD8qvU-1" edge="1">
+        <mxCell id="8Kh1nZLOUitUEpzBzAuP-66" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#82B366;fillColor=#A8DADC;fontColor=#82B366;" parent="N9daVPsvHSy_dvKD8qvU-1" edge="1" source="8Kh1nZLOUitUEpzBzAuP-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="766.3200000000002" y="835.4000000000001" as="sourcePoint" />
             <mxPoint x="876" y="834.5949999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Kh1nZLOUitUEpzBzAuP-67" value="TCP Long Connection" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#97D077;fontSize=17;" parent="N9daVPsvHSy_dvKD8qvU-1" vertex="1">
-          <mxGeometry x="440" y="795" width="180" height="30" as="geometry" />
+        <mxCell id="8Kh1nZLOUitUEpzBzAuP-67" value="Data channel" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#97D077;fontSize=17;" parent="N9daVPsvHSy_dvKD8qvU-1" vertex="1">
+          <mxGeometry x="750" y="796" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Kh1nZLOUitUEpzBzAuP-68" value="" style="endArrow=classic;html=1;strokeColor=#82B366;fontSize=12;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="N9daVPsvHSy_dvKD8qvU-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1023,6 +1023,9 @@
             <mxGeometry x="207.25" y="830" width="104.5" height="50" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="_-sFrIYPe6-69UowK0tm-3" value="TCP Long Connection" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#97D077;fontSize=17;" vertex="1" parent="N9daVPsvHSy_dvKD8qvU-1">
+          <mxGeometry x="410" y="799" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
